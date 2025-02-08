@@ -1,4 +1,3 @@
-```markdown
 # Text Summarization Project
 
 This project implements both extractive and abstractive text summarization techniques using Python. It includes:
@@ -86,4 +85,3 @@ The history of machine learning roots back to decades of human desire and effort
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
