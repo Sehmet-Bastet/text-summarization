@@ -1,0 +1,7 @@
+nltk
+scikit-learn
+numpy
+transformers
+gradio
+torch
+rouge-score

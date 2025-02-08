@@ -1,0 +1,11 @@
+# Исключаем виртуальное окружение
+venv/
+
+# Исключаем временные файлы метрик
+extractive_metrics.txt
+abstractive_metrics.txt
+
+# Исключаем другие ненужные файлы
+__pycache__/
+*.pyc
+*.log
